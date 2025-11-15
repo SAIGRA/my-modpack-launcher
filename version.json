@@ -1,4 +1,10 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/SAIGRA/my-modpack-launcher/releases/download/SHARIFIZATION/SHARIFIZATION_V3.zip"
+  "launcher": {
+    "version": "1.0.0",
+    "download_url": "https://github.com/SAIGRA/my-modpack-launcher/releases/download/launcher/launcher.zip"
+  },
+  "modpack": {
+    "version": "1.0.0",
+    "download_url": "https://github.com/SAIGRA/my-modpack-launcher/releases/download/SHARIFIZATION/mods.zip"
+  }
 }
