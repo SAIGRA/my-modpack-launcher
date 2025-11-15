@@ -1,10 +1,10 @@
 {
   "launcher": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "download_url": "https://github.com/SAIGRA/my-modpack-launcher/releases/download/launcher/launcher.zip"
   },
   "modpack": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "download_url": "https://github.com/SAIGRA/my-modpack-launcher/releases/download/SHARIFIZATION/mods.zip"
   }
 }
